@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simeple app using Reactjs to build a country flags browser using Reactjs.
 
 ## Available Scripts
 
