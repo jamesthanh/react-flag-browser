@@ -1,0 +1,92 @@
+export const flags = [
+  {
+    id: 1,
+    name: "United Kingdom",
+    img: "https://image.flaticon.com/icons/svg/197/197374.svg",
+    email: "Europe",
+  },
+  {
+    id: 2,
+    name: "Malaysia",
+    img: "https://image.flaticon.com/icons/svg/197/197581.svg",
+    email: "Asia",
+  },
+  {
+    id: 3,
+    name: "Morocco",
+    img: "https://image.flaticon.com/icons/svg/197/197551.svg",
+    email: "Africa",
+  },
+  {
+    id: 4,
+    name: "Kazakhstan",
+    img: "https://image.flaticon.com/icons/svg/197/197603.svg",
+    email: "Asia",
+  },
+  {
+    id: 5,
+    name: "United States",
+    img: "https://image.flaticon.com/icons/svg/197/197484.svg",
+    email: "North America",
+  },
+  {
+    id: 6,
+    name: "Brazil",
+    img: "https://image.flaticon.com/icons/svg/197/197386.svg",
+    email: "South America",
+  },
+  {
+    id: 7,
+    name: "Argentina",
+    img: "https://image.flaticon.com/icons/svg/197/197573.svg",
+    email: "South America",
+  },
+  {
+    id: 8,
+    name: "Japan",
+    img: "https://image.flaticon.com/icons/svg/197/197604.svg",
+    email: "Asia",
+  },
+  {
+    id: 9,
+    name: "Australia",
+    img: "https://image.flaticon.com/icons/svg/197/197507.svg",
+    email: "Oceania",
+  },
+  {
+    id: 10,
+    name: "new zealand",
+    img: "https://image.flaticon.com/icons/svg/197/197589.svg",
+    email: "Oceania",
+  },
+  {
+    id: 11,
+    name: "new zealand",
+    img: "https://image.flaticon.com/icons/svg/197/197589.svg",
+    email: "Oceania",
+  },
+  {
+    id: 12,
+    name: "Denmark",
+    img: "https://image.flaticon.com/icons/svg/197/197565.svg",
+    email: "Europe",
+  },
+  {
+    id: 13,
+    name: "Russia",
+    img: "https://image.flaticon.com/icons/svg/197/197408.svg",
+    email: "Asian & Europe",
+  },
+  {
+    id: 14,
+    name: "Congo",
+    img: "https://image.flaticon.com/icons/svg/197/197378.svg",
+    email: "Africa",
+  },
+  {
+    id: 15,
+    name: "Greendland",
+    img: "https://image.flaticon.com/icons/svg/197/197453.svg",
+    email: "North America",
+  },
+];
